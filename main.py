@@ -1,7 +1,6 @@
 """
 Project Name: Turtle Patterns II
 Author: Cody Behling
-Due Date: 11/14/2020
 Course: CS1400-X01
 
 This program will ask for one input from a user to determine which scene is to be displayed.
